@@ -1,0 +1,43 @@
+
+
+  body{
+    background-color: #F9F2ED;
+    color: blue;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+
+    width:10% ;
+
+  }
+  .profilepic{
+    height: 150px;
+    width: 150px;
+    border-radius: 90%;
+    
+
+  }
+
+  h1{
+    color: #66BFBF;
+  }
+  .education{
+    background-color: grey;
+    color: black;
+  }
+  .hobbies{
+    background-color: black;
+    color: white;
+  }
+#name:hover{
+  background-color: gold;
+
+}
+
+.info{
+  background-color: black;
+
+}
